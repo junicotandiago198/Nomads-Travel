@@ -8,4 +8,6 @@ Adalah Sebuah Website yang mefasilitasi seseorang dalam melakukan perjalanan dan
 1. Kloning repository ini dan cd ke dalamnya
 2. composer install
 3. Ganti nama atau salin file .env.example menjadi .env
-4. 
+4. masukkan perintah ini untuk mengisi APP_KEY
+php artisan key:generate
+
